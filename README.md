@@ -71,7 +71,7 @@ que toma cómo parámetros un númer entero, `age` (edad) y una cadena, `country
 
 - Además ten en cuenta que el método `canDriveACar` devuelve `false` para edades negativas y para paises que no estén en la tabla anterior. 
 
-- Implementa los casos de prueba necesarios utilizando *JUnit 5* con tests parametrizados, y si es posible, con carga de datos desde un archivo `.csv` para obtener un 100% de cobertura del código del método `isDateCorrect`, usando los valores límite adecuados donde proceda. 
+- Implementa los casos de prueba necesarios utilizando *JUnit 5* con tests parametrizados, y si es posible, con carga de datos desde un archivo `.csv` para obtener un 100% de cobertura del código del método `canDriveACar`, usando los valores límite adecuados donde proceda. 
 
 - **Publica tus cambios** en el **repositorio** privado de este ejercicio.
 
